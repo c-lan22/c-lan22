@@ -1,5 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=c-lan22&color=blue)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/c-lan22)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-lan22)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=c-lan22&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/c-lan22)  
+
 
 <!--
 **c-lan22/c-lan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
