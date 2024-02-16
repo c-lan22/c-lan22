@@ -1,4 +1,5 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=c-lan22&color=blue)
+
 
 <!--
 **c-lan22/c-lan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
